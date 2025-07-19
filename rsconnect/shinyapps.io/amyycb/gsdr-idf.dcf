@@ -1,0 +1,13 @@
+name: gsdr-idf
+title: gsdr-idf
+username: amyycb
+account: amyycb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14807501
+bundleId: 10587588
+url: https://amyycb.shinyapps.io/gsdr-idf/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: add_diffs_to_tab.R|Rplot.png|temp.html|test.R|tests/testing.R|tests/testing1.R

@@ -1,0 +1,13 @@
+name: testing-idf
+title: testing-idf
+username: amyycb
+account: amyycb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13679840
+bundleId: 10323573
+url: https://amyycb.shinyapps.io/testing-idf/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: add_diffs_to_tab.R|Rplot.png|temp.html|test.R|tests/testing.R|tests/testing1.R|temp_files
